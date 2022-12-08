@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@atlaskit/theme": "^12.2.3",
+    "@atlaskit/tokens": "^0.11.1",
+    "@primer/css": "^20.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
